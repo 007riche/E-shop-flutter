@@ -1,5 +1,5 @@
 # eshop
-![Home screen] (./screenshots/home.png)
+<!-- ![Home screen] (./screenshots/home.png) -->
 
 A new Flutter project.
 
