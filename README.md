@@ -5,13 +5,13 @@
 
 #### Home
 
-<img src="./screenshots/home.png" height=500 width=250>
+<img src="./screenshots/empty_cart.png" height=500 width=250>
 
-#### Home
+#### Cart
 
 <img src="./screenshots/product_details.png" height=500 width=250>
 
-#### Home
+#### Product details
 
 
 A new Flutter project.
