@@ -21,7 +21,7 @@ class StripeService {
   static Uri paymentApiUri = Uri.parse(paymentApiUrl);
 
   static String mySecretKey =
-      "sk_test_51K4tOgSFgf1W0NFkqAcSlJx6wfH2BcZlbcCxwuIXbd828a9FeKTRpYxlbB5nUAVUgt0PjAScFAo5oERnKEkp4SIV00SnnlQGhz";
+      ""; //Put your private stripe key here
 
   static Map<String, String> headers = {
     "Authorization": "Bearer ${StripeService.mySecretKey}",
