@@ -5,7 +5,7 @@
 
 #### Home
 
-<img src="./screenshots/empty_cart.png" height=500 width=250>
+<img src="./screenshots/empty_cart.png" height=500 width=250> <img src="./screenshots/cart.png" height=500 width=250>
 
 #### Cart
 
