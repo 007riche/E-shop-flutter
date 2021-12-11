@@ -5,13 +5,21 @@
 
 #### Home
 
-<img src="./screenshots/empty_cart.png" height=500 width=250> <img src="./screenshots/cart.png" height=500 width=250>
+<img src="./screenshots/feeds.png" height=500 width=250>
+
+#### Feeds
+
+<img src="./screenshots/empty_cart.png" height=500 width=250> <img src="./screenshots/cart.png" height=500 width=250>   <img src="./screenshots/cart_dark.png" height=500 width=250>
 
 #### Cart
 
 <img src="./screenshots/product_details.png" height=500 width=250>
 
 #### Product details
+
+<img src="./screenshots/payment.png" height=500 width=250>
+
+#### Payment
 
 
 A new Flutter project.
