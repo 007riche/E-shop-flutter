@@ -1,5 +1,18 @@
 # eshop
- ![Home screen](./screenshots/home.png)
+<!--  ![Home screen](./screenshots/home.png){: heigth="500px" } -->
+<!--  ![smiley](./screenshots/home.png){:height="36px" width="36px"} -->
+<img src="./screenshots/home.png" height=500 width=250>
+
+#### Home
+
+<img src="./screenshots/home.png" height=500 width=250>
+
+#### Home
+
+<img src="./screenshots/product_details.png" height=500 width=250>
+
+#### Home
+
 
 A new Flutter project.
 
