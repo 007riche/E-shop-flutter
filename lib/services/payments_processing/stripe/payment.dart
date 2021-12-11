@@ -32,7 +32,7 @@ class StripeService {
     StripePayment.setOptions(
       StripeOptions(
         publishableKey:
-            "pk_test_51K4tOgSFgf1W0NFkn1pI7togPjpqdIZY57iad5xjOPcdsrsHFdKuQyk1s5knMsYFXlKKapxCjtWWd5ueOUtKHPbl00cTPp1YSw",
+            "", //your public ley
         merchantId: "test", //Here used for in test mode
         androidPayMode: "test",
       ),
